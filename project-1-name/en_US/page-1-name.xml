@@ -7,7 +7,12 @@
       <section>
         <id>2</id>
         <name>section-1-name</name>
-        <assets/>
+        <assets>
+          <text attr-0-name="attr-0-value" attr-1-name="attr-1-value" attr-2-name="attr-2-value" is-fpo="false" owner="admin_user" comment="ccopy-1-notes" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>ccopy-1-name</id>
+            <value></value>
+          </text>
+        </assets>
       </section>
     </sections>
   </page>
