@@ -5,6 +5,11 @@
     <url></url>
     <sections>
       <section>
+        <id>3</id>
+        <name>Section 3</name>
+        <assets/>
+      </section>
+      <section>
         <id>2</id>
         <name>Section 2</name>
         <assets/>
@@ -15,8 +20,8 @@
         <assets/>
       </section>
       <section>
-        <id>3</id>
-        <name>Section 3</name>
+        <id>4</id>
+        <name>Section 4</name>
         <assets/>
       </section>
     </sections>
