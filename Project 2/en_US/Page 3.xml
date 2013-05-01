@@ -5,11 +5,6 @@
     <url></url>
     <sections>
       <section>
-        <id>4</id>
-        <name>Section 1</name>
-        <assets/>
-      </section>
-      <section>
         <id>1</id>
         <name>Section 4</name>
         <assets>
@@ -22,6 +17,11 @@
             <value>Cool Copy</value>
           </text>
         </assets>
+      </section>
+      <section>
+        <id>4</id>
+        <name>Section 1</name>
+        <assets/>
       </section>
     </sections>
   </page>
