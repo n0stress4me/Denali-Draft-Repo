@@ -12,7 +12,7 @@
             <id>Headline 2</id>
             <value>even better copy</value>
           </text>
-          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+          <text Attribute 1="value 1" is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
             <id>Headline new</id>
             <value>iThingie Mini</value>
           </text>
