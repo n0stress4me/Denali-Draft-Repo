@@ -1,0 +1,28 @@
+<page-content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../page-content.xsd">
+  <page>
+    <id>4</id>
+    <name>Page new</name>
+    <url></url>
+    <sections>
+      <section>
+        <id>6</id>
+        <name>Section 2</name>
+        <assets/>
+      </section>
+      <section>
+        <id>5</id>
+        <name>Section 1</name>
+        <assets>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>Headline 2</id>
+            <value></value>
+          </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>Headline 1</id>
+            <value>some new copy</value>
+          </text>
+        </assets>
+      </section>
+    </sections>
+  </page>
+</page-content>
