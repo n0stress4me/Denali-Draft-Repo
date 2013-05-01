@@ -5,6 +5,11 @@
     <url>null</url>
     <sections>
       <section>
+        <id>7</id>
+        <name>MySection 1</name>
+        <assets/>
+      </section>
+      <section>
         <id>6</id>
         <name>MSection 1</name>
         <assets/>
