@@ -1,26 +1,13 @@
 <page-content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../page-content.xsd">
   <page>
-    <id>16</id>
+    <id>17</id>
     <name>Page 1</name>
     <url>null</url>
     <sections>
       <section>
-        <id>8</id>
+        <id>9</id>
         <name>Section 1</name>
-        <assets>
-          <text is-fpo="false" owner="admin_user" comment="Dummy Copy" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
-            <id>line 1</id>
-            <value></value>
-          </text>
-          <text is-fpo="false" owner="admin_user" comment="Dummy Copy" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
-            <id>Headline 1</id>
-            <value></value>
-          </text>
-          <text is-fpo="false" owner="admin_user" comment="Dummy Copy" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
-            <id>Headline 2</id>
-            <value></value>
-          </text>
-        </assets>
+        <assets/>
       </section>
     </sections>
   </page>
