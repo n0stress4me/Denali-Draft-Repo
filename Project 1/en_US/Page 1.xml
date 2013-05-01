@@ -14,6 +14,11 @@
         <name>Section 1</name>
         <assets/>
       </section>
+      <section>
+        <id>5</id>
+        <name>MySection 1</name>
+        <assets/>
+      </section>
     </sections>
   </page>
 </page-content>
