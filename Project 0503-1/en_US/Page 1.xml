@@ -5,37 +5,47 @@
     <url></url>
     <sections>
       <section>
-        <id>1</id>
-        <name>Section 3</name>
-        <assets>
-          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 1</id>
-            <value></value>
-          </text>
-        </assets>
+        <id>5</id>
+        <name>Maps 6</name>
+        <assets/>
+      </section>
+      <section>
+        <id>4</id>
+        <name>Maps 1</name>
+        <assets/>
       </section>
       <section>
         <id>2</id>
         <name>Maps 5</name>
         <assets>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 3</id>
-            <value></value>
-          </text>
-          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
             <id>Headline 4</id>
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 1</id>
-            <value>some copy new</value>
+            <id>Headline new</id>
+            <value></value>
+          </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
+            <id>Headline 3</id>
+            <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
             <id>Headline 2</id>
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline new</id>
+            <id>Headline 1</id>
+            <value>some copy new</value>
+          </text>
+        </assets>
+      </section>
+      <section>
+        <id>1</id>
+        <name>Section 3</name>
+        <assets>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
+            <id>Headline 1</id>
             <value></value>
           </text>
         </assets>
