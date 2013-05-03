@@ -13,20 +13,20 @@
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 2</id>
-            <value></value>
-          </text>
-          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 1</id>
-            <value>some copy new</value>
-          </text>
-          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
             <id>Headline new</id>
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
             <id>Headline 3</id>
             <value></value>
+          </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
+            <id>Headline 2</id>
+            <value></value>
+          </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
+            <id>Headline 1</id>
+            <value>some copy new</value>
           </text>
         </assets>
       </section>
