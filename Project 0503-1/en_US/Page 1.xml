@@ -40,6 +40,11 @@
           </text>
         </assets>
       </section>
+      <section>
+        <id>4</id>
+        <name>Maps 1</name>
+        <assets/>
+      </section>
     </sections>
   </page>
 </page-content>
