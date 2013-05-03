@@ -19,11 +19,11 @@
         <name>Maps 5</name>
         <assets>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 4</id>
-            <value></value>
+            <id>Headline Perlson</id>
+            <value>some copy new</value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline new</id>
+            <id>Headline 4</id>
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
@@ -35,15 +35,10 @@
             <value></value>
           </text>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/03/2013" date-last-translated="" edit-link="">
-            <id>Headline 1</id>
-            <value>some copy new</value>
+            <id>Headline new</id>
+            <value></value>
           </text>
         </assets>
-      </section>
-      <section>
-        <id>3</id>
-        <name>Section 1</name>
-        <assets/>
       </section>
     </sections>
   </page>
